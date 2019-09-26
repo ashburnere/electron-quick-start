@@ -31,6 +31,9 @@ npm start
 
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
+## Hitting F5 to Run Your Electron App in VS Code
+https://medium.com/@agnewdev/hitting-f5-to-run-your-electron-app-in-vs-code-adc3901271be
+
 ## Resources for Learning Electron
 
 - [electronjs.org/docs](https://electronjs.org/docs) - all of Electron's documentation
